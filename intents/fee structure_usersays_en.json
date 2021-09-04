@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6032b16c-cd63-4763-a872-bbd611caf65b",
+    "data": [
+      {
+        "text": "fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ffe7a59-6bd9-4d8a-aebf-de04c9119cb8",
+    "data": [
+      {
+        "text": "tuition fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d4d21fc-2a7d-4d88-8219-2159b0672c6b",
+    "data": [
+      {
+        "text": "academic fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07c380f9-ade5-4109-baae-a40acbb5fce5",
+    "data": [
+      {
+        "text": "college fees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efcccde6-b78b-472d-912c-ce822d77955c",
+    "data": [
+      {
+        "text": "fee structure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4ec75ff-a064-424f-a5d4-3f0a82a85ad9",
+    "data": [
+      {
+        "text": "cost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "157892c2-15e0-4837-9b3d-e1f3c7723fcc",
+    "data": [
+      {
+        "text": "course expense",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

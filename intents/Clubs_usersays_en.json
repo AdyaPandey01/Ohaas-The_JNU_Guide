@@ -1,0 +1,54 @@
+[
+  {
+    "id": "4e1954de-2136-4cc9-8d48-ddf07c9b660b",
+    "data": [
+      {
+        "text": "clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42c287bd-2a18-4bf2-b010-08f003b4690e",
+    "data": [
+      {
+        "text": "cultural clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79de6653-ed61-44c5-a365-6d5772d8f4af",
+    "data": [
+      {
+        "text": "club activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fb9265b-ca48-4301-9827-729b98872d6c",
+    "data": [
+      {
+        "text": "development clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

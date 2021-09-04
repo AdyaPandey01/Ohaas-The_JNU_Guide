@@ -1,0 +1,53 @@
+{
+  "id": "2c70510c-f4e6-442f-b5c4-6f46278da036",
+  "name": "Affiliation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/images/story/201508/jnu-logo_650_080915051043.jpg",
+          "title": "JNU Affiliation",
+          "buttons": [
+            {
+              "postback": "https://www.jnu.ac.in/institute",
+              "text": "Browse more info here"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "JNU has granted recognition and accreditation to the following prestigious institutions across the country. This has added to the true national character of the University. Representatives of these Institutions serve on various academic and statutory bodies of the JNU. Similarly, JNU faculty also participate in the academic bodies of these Institutions."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

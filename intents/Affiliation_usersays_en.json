@@ -1,0 +1,28 @@
+[
+  {
+    "id": "76dcb9b2-f3db-4986-8484-fe1741c11659",
+    "data": [
+      {
+        "text": "affliation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2743a28f-ba57-4020-a796-85735c4e9fd0",
+    "data": [
+      {
+        "text": "affiliation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

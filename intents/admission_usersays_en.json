@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1d26e63a-d60d-44b7-9957-daf6fe037179",
+    "data": [
+      {
+        "text": "admission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48cf22fa-efee-4308-8505-f44cf862f0ef",
+    "data": [
+      {
+        "text": "How can I get admitted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94cec16a-001c-4281-9d09-0556b12d1759",
+    "data": [
+      {
+        "text": "How can I take admissions in the college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c802499-3da1-4856-b5e0-a1a3ae4e2224",
+    "data": [
+      {
+        "text": "admission procedure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dea18c4-302b-4f66-908f-3273aaad827f",
+    "data": [
+      {
+        "text": "Are you accepting new students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

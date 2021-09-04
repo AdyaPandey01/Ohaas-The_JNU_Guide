@@ -1,0 +1,53 @@
+{
+  "id": "7b08d2ae-63f5-4d7d-b143-3bbd185bad1f",
+  "name": "fee structure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.india.com/wp-content/uploads/2019/11/JNU-1.jpg",
+          "title": "JNU Fee Structure",
+          "buttons": [
+            {
+              "postback": "https://jnu.ac.in/content/fee",
+              "text": "Click to know more"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "JNU not only aims at providing quality education, but also at a nominal expenditure. Click the link below to view the detailed fee structure for each year respectively."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

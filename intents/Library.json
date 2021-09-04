@@ -1,0 +1,68 @@
+{
+  "id": "00f27213-4041-43ce-9db8-52a8c849011c",
+  "name": "Library",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e55f6c7c-b1f1-4264-bea7-fbd906726550",
+          "name": "currency-name",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://cdn.ipetitions.com/user-images/petitions/rename-jnu-library/pJYWglFTaGZbwDUbXwtQ_jnu+library.jpg",
+          "title": "JNU Library",
+          "buttons": [
+            {
+              "postback": "http://lib.jnu.ac.in/",
+              "text": "Take a JNU Library tour"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Towering above all academic complexes in university serene element, sitting on the confluences of the premises of school building is our great and time-honored central library. Its ground floor has a geographical spread of approx. 50000 Sq. ft. and the column of nine-storey building has a floor stretching itself in 6000 Sq. ft. The library is one of the largest repositories of books in the country shelving 5 lakh books and more than 50000 volumes. It is adding 10000 books on an average per year through the agency of suggestions from faculties and students from different disciplines. It keeps on replicating the volumes of books as per requirements."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

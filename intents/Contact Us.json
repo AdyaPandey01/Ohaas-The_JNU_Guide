@@ -1,0 +1,57 @@
+{
+  "id": "5cd65f54-5cc3-4031-ab43-760263599f7d",
+  "name": "Contact Us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn%3AANd9GcRAVS3YTdP5UiK6Tpuqk8VDKiyGz12a1fd2wg\u0026usqp\u003dCAU",
+          "title": "Phone: 011-26704047/48, 26742617",
+          "buttons": [
+            {
+              "postback": "admission@mail.jnu.ac.in",
+              "text": "Email"
+            },
+            {
+              "postback": "http://www.jnu.ac.in/contactus",
+              "text": "Click for contact info"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "• Reception (Administration) - Phone: 011-26704090                                                         \n• Admission - Deputy Registrar (Admission) Phone: 011-26704047/48, 26742617 Email: dr_admissions@mail.jnu.ac.in, admission@mail.jnu.ac.in                                                 • General Information, Public \u0026 Media Relations - Public Relations Officer Phone:011-26704017/4046, 26742601 E-mail: pro@jnu.ac.in Link - http://www.jnu.ac.in/contactus"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

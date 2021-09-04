@@ -1,0 +1,54 @@
+{
+  "id": "e68e20ea-7445-4c8f-becb-2ae968c28655",
+  "name": "Alumni",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.utkaltoday.com/wp-content/uploads/2021/05/Famous-JNU-alumni-cover-ut.jpg",
+          "subtitle": "Once You Are A Part Of JNU Will Always Remain Part Of JNU.",
+          "title": "Alumni",
+          "buttons": [
+            {
+              "postback": "https://www.jnu.ac.in/aaj",
+              "text": "Click here to register and know more"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "JNU is proud to have as its alumni a growing number of eminent social scientists, scientists, civil servants, literary critics, media experts, foreign language experts, journalists, political leaders, social activists, technologists, managers, academicians and entrepreneurs over the last 35 years and more. This number will continue to grow. The University has established a Standing committee for Alumni Relations and International Linkages (SCRAIL) under the chairmanship of\nthe Vice-Chancellor since 2003. Currently, Prof. Neera Bhalla Sarin is the Chief Advisor, Alumni Affairs."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "3411d0db-e1f7-4368-abf9-479fc226f53f",
+    "data": [
+      {
+        "text": "studies offered at jnu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd984cd1-1e74-4c9e-a6f0-4df0bddf0757",
+    "data": [
+      {
+        "text": "undergraduate programs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "369692fa-0b76-4928-9903-904f1fadea11",
+    "data": [
+      {
+        "text": "graduate programs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f97b8fa9-9a60-4c7a-9ebf-e480121f6616",
+    "data": [
+      {
+        "text": "courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69ae801b-426c-4366-81ac-bb03c75eed82",
+    "data": [
+      {
+        "text": "what are the courses offered at jnu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

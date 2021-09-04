@@ -1,0 +1,53 @@
+{
+  "id": "f5f7b81b-9382-4ad8-afb2-e53a07a878a4",
+  "name": "infrastructure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.sundayguardianlive.com/wp-content/uploads/2019/09/Ex-JNU_pratyush.jpg",
+          "title": "JNU Campus and Infrastructure",
+          "buttons": [
+            {
+              "postback": "https://www.shiksha.com/university/jnu-jawaharlal-nehru-university-delhi-4225/infrastructure",
+              "text": "Click for campus tour"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The university campus is decent, green, clean with world class infrastructure.The campus has air-conditioned class rooms and tutorial rooms, ultra modern Auditorium and Seminar Hall with audio-visual aids.The campus possesses proper playgrounds and hard courts for outdoor sports. Separate decent boy’s and girl’s hostels with mess facility have attracted the attention of students.                                               24*7 central library with reading halls. Wi-Fi enabled library allows users to access offline and online information anytime. It uses Virtual Integrated Library Management Software (VTLS) and provides access to 22 databases through UGC-Infonet consortia. The campus also houses Human Resource Development Center|Guest Houses|Convention Center|Bank and ATM|Post Office|International Guest House|Conference and Seminar Hall|NKN Internet Connectivity."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

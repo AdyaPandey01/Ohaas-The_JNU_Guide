@@ -1,0 +1,53 @@
+{
+  "id": "b8e48cbd-2ab3-4387-992e-679e55ade036",
+  "name": "Courses offered",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://i.ytimg.com/vi/7I6_rL7dt0Y/maxresdefault.jpg",
+          "title": "Courses offered at JNU",
+          "buttons": [
+            {
+              "postback": "https://jnu.ac.in/pc-academic",
+              "text": "Detailed description of courses offered"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "JNU offers a number of courses in multiple diciplines of higher and vocational education. A few of them are as follows:                                                                                 B.A. ,M.A., M.C.A., M.Sc., M.Phil., M.Tech., M.Phil./Ph.D. ,M.Tech./Ph.D., Ph.D."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

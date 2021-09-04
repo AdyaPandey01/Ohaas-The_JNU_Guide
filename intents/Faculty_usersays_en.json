@@ -1,0 +1,106 @@
+[
+  {
+    "id": "15a3bba7-4039-4b01-9104-ae4c36e3424d",
+    "data": [
+      {
+        "text": "faculty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55862fce-e94f-40a0-8125-21d8c1e1d74c",
+    "data": [
+      {
+        "text": "staff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a70ce06d-4d3a-4875-8488-fed160d78eb5",
+    "data": [
+      {
+        "text": "teaching staff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7c647fd-6a84-4a77-932d-baaf858d2f04",
+    "data": [
+      {
+        "text": "faculty members",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09e53c9e-9f17-47f6-81ba-2aa3cf1a58d6",
+    "data": [
+      {
+        "text": "members of the staff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "078c8147-4152-4cd9-8218-e23047a30948",
+    "data": [
+      {
+        "text": "teachers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3360156b-366d-45f7-96e8-73040f17755a",
+    "data": [
+      {
+        "text": "professors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e786b136-8c2c-4046-824a-aa3077599c75",
+    "data": [
+      {
+        "text": "facu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

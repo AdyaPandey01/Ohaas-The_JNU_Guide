@@ -1,0 +1,54 @@
+{
+  "id": "06eb69e4-2e2b-4dce-abd6-fb4e24b1c775",
+  "name": "Clubs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTS2JM9kYgbLw6Xgc1hCGRUR1ySrP6GxeV0Pg\u0026usqp\u003dCAU",
+          "subtitle": "To facilitate students in this endeavor, eleven clubs have been established.",
+          "title": "Student Clubs",
+          "buttons": [
+            {
+              "postback": "http://www.jnu.ac.in/content/clubs",
+              "text": "Explore more"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Apart from regular curriculum, students should get ample opportunity to explore different possibilities of lifelong learning. They need to continuously improve their skill sets, learn time management and work in collaboration with others. To provide such opportunities, JNU has formed various Techno Cultural Clubs under the patronage of different departments with a faculty coordinator attached to each club."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

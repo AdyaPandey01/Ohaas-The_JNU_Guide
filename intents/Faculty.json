@@ -1,0 +1,54 @@
+{
+  "id": "94a69c7d-1b19-4184-bf9d-d6015296af69",
+  "name": "Faculty",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://management.ind.in/img/w/JNU-Faculty-Profile-1.jpg",
+          "subtitle": "Highly experienced and knowledgeable faculty and staff members.",
+          "title": "JNU FACULTY",
+          "buttons": [
+            {
+              "postback": "https://www.jnu.ac.in/faculty-profile4/v",
+              "text": "View more details"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Faculty of our college is the best part which makes it a better college.Most of the faculty members are post graduate and  Ph.D holders. At the top most level in our college we have the Advisor and then Director and then HODs of the different departments and then faculties.  \n           Faculty is having great experience in their respective fields and help the students in every manner, we have separate teachers for theory and for practical studies. We also have lab assistants which are also qualified to show practicals."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

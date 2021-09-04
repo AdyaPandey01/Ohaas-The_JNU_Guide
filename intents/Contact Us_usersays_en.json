@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1640c08e-66b7-4057-ac4b-37121f2ad857",
+    "data": [
+      {
+        "text": "contact us",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73c594f4-6371-466a-83a5-37191ce66eed",
+    "data": [
+      {
+        "text": "Phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9d3460c-a596-4195-bf2a-7296a03bf061",
+    "data": [
+      {
+        "text": "phone no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88c24a40-7a7f-475f-a34e-21e57bf1de1b",
+    "data": [
+      {
+        "text": "contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e51bd329-6af3-4c4c-8a9a-207443d34842",
+    "data": [
+      {
+        "text": "contact info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00b2b90d-1642-4c74-aa1a-da22e805fafa",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "471cb3d8-97c6-4577-adc8-61d824b8e009",
+    "data": [
+      {
+        "text": "email id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9108add-e9b1-4312-a578-a5662b5503c3",
+    "data": [
+      {
+        "text": "mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "186fe1c7-7c05-46be-b1b7-529ef4cc7ba3",
+    "data": [
+      {
+        "text": "mail id",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4bcd6c6-b04e-444a-9046-f0bdb2a973a1",
+    "data": [
+      {
+        "text": "mobile no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ca7a022-af62-4811-a780-3909a30e5f4a",
+    "data": [
+      {
+        "text": "mobile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a813e04c-cead-4085-b552-ded6863395db",
+    "data": [
+      {
+        "text": "mobile number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c664a990-295b-41f1-b1f9-5add9a0d1e95",
+    "data": [
+      {
+        "text": "May I know contact info of JNU ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f85a1d7c-1f42-4066-8168-075737048eb9",
+    "data": [
+      {
+        "text": "Can you tell contact info of this college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

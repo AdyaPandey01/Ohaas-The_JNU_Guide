@@ -1,0 +1,171 @@
+[
+  {
+    "id": "a200d6ef-a485-4a1e-bfb3-47ef5cf76378",
+    "data": [
+      {
+        "text": "Infrastructure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c4f61f0-0050-4758-a38b-a4e0716de6fc",
+    "data": [
+      {
+        "text": "College infrastructure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "467f3165-31c7-4f62-b372-b8475aab7f1f",
+    "data": [
+      {
+        "text": "College building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00a03df8-939f-4eaa-9281-46cc0d9570df",
+    "data": [
+      {
+        "text": "building",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f33e1ccc-57d4-461a-bd5e-83cdf828172e",
+    "data": [
+      {
+        "text": "Tell me about the college infrastructure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dec55e90-7f38-4f4a-8587-ffe8ec9a0361",
+    "data": [
+      {
+        "text": "How is the infrastructure of the college?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6555120d-4dc1-4555-9e81-e2f08839e813",
+    "data": [
+      {
+        "text": "Can you tell me about the college infrastructure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b5b586b-dbc1-415c-94be-4de70ec9eb4a",
+    "data": [
+      {
+        "text": "Can you explain me about the college infrastructure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0cc305-9aec-4a57-a665-9bf6cc0c79cb",
+    "data": [
+      {
+        "text": "How is the college campus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30ac3938-f6a8-4111-8594-c6fe79f9f1fa",
+    "data": [
+      {
+        "text": "Cmpus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "598f0c36-07da-4b94-97fd-6054a42790bb",
+    "data": [
+      {
+        "text": "Campus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2093ed6-1838-44b2-84e5-ddc89bf0c16c",
+    "data": [
+      {
+        "text": "Tell me about the college campus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0de6319e-a208-45b1-91e6-32de5d7f03b6",
+    "data": [
+      {
+        "text": "Can you tell me about the college campus.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

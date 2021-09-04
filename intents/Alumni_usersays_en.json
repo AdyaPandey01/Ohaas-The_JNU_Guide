@@ -1,0 +1,97 @@
+[
+  {
+    "id": "4576e4e3-ebfa-4812-ab0d-8d850ca33bcb",
+    "data": [
+      {
+        "text": "ex student",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63844929-38eb-4601-9aad-95c2a57f4ea1",
+    "data": [
+      {
+        "text": "alumni",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08c27c74-c0e9-4b51-a557-5dd04d4c440f",
+    "data": [
+      {
+        "text": "alumini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daed9abe-3ea2-434b-a3b4-253510f0e702",
+    "data": [
+      {
+        "text": "pass out students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8848ee9b-8a02-4e73-abd1-c24bdb2dd2ec",
+    "data": [
+      {
+        "text": "previous year",
+        "userDefined": false
+      },
+      {
+        "text": " batches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1356db4-0d1b-4529-9481-c2f6b496a4bc",
+    "data": [
+      {
+        "text": "graduate students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cb0714b-3ce6-4e4e-a8a8-3df168f5dd13",
+    "data": [
+      {
+        "text": "graduated students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
