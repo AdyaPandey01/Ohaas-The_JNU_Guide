@@ -1,0 +1,54 @@
+{
+  "id": "852ce1fc-8577-4c8b-bfc0-45aa902e1f68",
+  "name": "Achievements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://www.coursemende.com/wp-content/uploads/2021/06/JNU-PhD-Courses.jpg",
+          "subtitle": "Researches and good practices at JNU have found remarkable results in its outreach activities.",
+          "title": "Achievements",
+          "buttons": [
+            {
+              "postback": "https://jnu.ac.in/content/jnu-achievements",
+              "text": "Click here to know more"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We at JNU, aim at the overall excellence of our students and staff. They are prepared to embark upon challenges in a meritorious and victorious manner and to outshine everyone that stands in their competition.                                                                          Some of the recent achievements are as follows:                                                                             1. Dr. Papia Sengupta, CPS, SSS has received Solidarity Award 2021 by AILA, Netherlands                                                                                                                                2. Prof. Babu Thaliath, CGS, SLL\u0026CS nominated as Senior Fellow in University of Konstanz                                                                                                                                   \n3. Prof. A.P. Dimri, SES has following contributions appeared in Science"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "84ae90a2-4f23-40e9-bc38-0a589d38e36c",
+  "name": "Address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://t1.unipage.net/map/institute/16331.jpg",
+          "subtitle": "Follow the directions shown to arrive at JNU , New Delhi",
+          "title": "Directions to reach Jawaharlal Nehru University,New Delhi,India.",
+          "buttons": [
+            {
+              "postback": "https://www.google.com/maps/place/Jawaharlal+Nehru+University/@28.5402279,77.1640267,17z/data\u003d!3m1!4b1!4m5!3m4!1s0x390d1dc0ea0183b7:0xefd8d19ac7f061e7!8m2!3d28.5402232!4d77.1662154",
+              "text": "Map to reach JNU , New Delhi"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "New Mehrauli Road, JNU Ring Rd, New Delhi, Delhi 110067.                                                                  JNU is located in the southern part of New Delhi, Capital of India. and is well connected by road from the \nthree main Railway Stations, i.e. New delhi and Delhi and Nizammudin railway station as well as the Inter-\nstate Bus Terminus of Delhi. It is also a short distance away from the Indira Gandhi International Airport. \nIn short JNU is easily accessible from anywhere in the world."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

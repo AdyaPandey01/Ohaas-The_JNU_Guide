@@ -1,0 +1,54 @@
+{
+  "id": "f1c6bec3-e840-4288-a36b-68e666741fca",
+  "name": "About Us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://static.theprint.in/wp-content/uploads/2018/05/1280px-JNU_Admin-e1526989197517-696x414.jpg",
+          "subtitle": "Jawaharlal Nehru University (JNU) is a public central university located in New Delhi, India.",
+          "title": "About Us",
+          "buttons": [
+            {
+              "postback": "http://www.jnu.ac.in/jnuataglance",
+              "text": "Click to know more"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Jawaharlal Nehru University is the foremost university in India, and a world-renowned centre for teaching and research. It embarked on its mission in the field of  Higher and Vocational Education in the year 1969. Ranked number one in India by the National Assessment and Accreditation Council (NAAC) with a Grade Point of 3.91 (on a scale of 4), JNU was ranked no 3 among all universities in India by the National Institutional Ranking Framework, Government of India, in 2016 and no 2 in 2017. JNU also received the Best University Award from the President of India in 2017."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

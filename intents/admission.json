@@ -1,0 +1,53 @@
+{
+  "id": "4a111e0e-759c-47f2-a41c-0f1fa0a1e0fd",
+  "name": "admission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://images.news18.com/ibnlive/uploads/2021/08/studio_project-3-44-16299836223x2.jpeg?im\u003dResize,width\u003d360,aspect\u003dfit,type\u003dnormal?im\u003dResize,width\u003d320,aspect\u003dfit,type\u003dnormal",
+          "title": "Admissions",
+          "buttons": [
+            {
+              "postback": "https://www.jnu.ac.in/admissions",
+              "text": "To register click here"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Admissions are open for the new session. Click on the link below to know more."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

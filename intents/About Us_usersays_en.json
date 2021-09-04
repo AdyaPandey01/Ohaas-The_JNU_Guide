@@ -1,0 +1,106 @@
+[
+  {
+    "id": "7451539e-5650-4a47-afe7-86f60d0934a2",
+    "data": [
+      {
+        "text": "Tell me more about this college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d36cb384-272f-42c9-8214-ac4452a9849e",
+    "data": [
+      {
+        "text": "more about this college",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d83876e-2fca-4cfc-845e-d9bed9ebeab2",
+    "data": [
+      {
+        "text": "more info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb528f91-43ec-43f9-b92c-d7c6a0ac5908",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cfa2647-28a4-4320-927f-d841ac2be643",
+    "data": [
+      {
+        "text": "what is jnu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1983d5d5-4a24-48be-9d64-76097f40d3bb",
+    "data": [
+      {
+        "text": "when was it established",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbc49133-7a7e-4946-a8e2-f8bd09143282",
+    "data": [
+      {
+        "text": "history of jnu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "014b99f6-fd5b-42ff-b4fb-df159cadc8d6",
+    "data": [
+      {
+        "text": "explain more about jnu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
